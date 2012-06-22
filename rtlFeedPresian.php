@@ -3,7 +3,7 @@
 
 Plugin Name: RTL-Feed-Presian
 
-Plugin URI: http://blog.iflashlord.com/?p=2080
+Plugin URI: http://wordpress.org/extend/plugins/rtl-feed-presian/
 
 Description: Writing and view correct font (Tahoma) problem RTL, the Persian language, for WordPress feeds. 
 
