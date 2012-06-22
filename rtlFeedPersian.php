@@ -1,7 +1,7 @@
 <?php
 /*
 
-Plugin Name: RTL-Feed-Presian
+Plugin Name: RTL-Feed-Persian
 
 Plugin URI: http://wordpress.org/extend/plugins/rtl-feed-presian/
 

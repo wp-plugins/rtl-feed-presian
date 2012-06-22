@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: behrouzpc
 Donate link: http://www.iflashlord.com/
-Tags: rtl, feed , presian , farsi , iflashlord
+Tags: rtl, feed , persian , farsi , iflashlord
 Requires at least: 2.0.2
 Tested up to: 3.4
 Stable tag: 4.3
