@@ -24,4 +24,4 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Initial version.
 
 = 1.1 =
-Add content to a <p></p> tag.
+Add content to a P tag.
